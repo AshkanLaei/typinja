@@ -8,7 +8,7 @@ text = "Have a nice weekend!";
 let letters = [];
 let position;
 let time;
-let timerId = "";
+let timerId;
 let typing = false;
 
 const startTimer = () => {
